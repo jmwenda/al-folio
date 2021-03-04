@@ -1,11 +1,50 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Different courses taught
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">TERM</th>
+      <th scope="col">COURSE</th>
+      <th scope="col">ROLE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">FALL 2020</th>
+      <td>Discovery and Invention</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <th scope="row">SPRING 2020</th>
+      <td>Intro to Media Studies(eco-critical lens)</td>
+      <td>Teaching Instructor</td>
+    </tr>
+    <tr>
+      <th scope="row">FALL 2019</th>
+      <td>The Computer as an Expressive Medium</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <th scope="row">SPRING 2019</th>
+      <td>Intro to Media Studies(* Teaching Award)</td>
+      <td>Teaching Instructor</td>
+    </tr>
+    <tr>
+      <th scope="row">FALL 2018</th>
+      <td>Introduction to Computational Media</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <th scope="row">SUMMER 2018</th>
+      <td>Computing and Society(School of Computing)</td>
+      <td>Teaching Assistant</td>
+    </tr>
+  </tbody>
+</table>
